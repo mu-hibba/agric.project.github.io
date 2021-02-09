@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Agriculture Ecommerce</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
+
+    <!-- Owl carousel -->
+    <link rel="stylesheet" href="./owlCarousel/dist/assets/owl.carousel.min.css"/>
+    <link rel="stylesheet" href="./owlCarousel/dist/assets/owl.theme.default.min.css"/>
+
+    <!-- font-awesome icons -->
+    <link rel="stylesheet" href="./fontawesome/css/all.min.css"/>
+
+    <!-- CSS file -->
+    <link rel="stylesheet" href="style.css">
+
+    <?html
+    //Function html
+    require ("functions.html");
+    ?>
+
+</head>
+<body>
+        <!-- header -->
+        <header id="header">
+            <div class="strip d-flex justify-content-between px-4 py-1 bg-light">
+                <p class="font-rale font-size-20 text-black-50">Welcome to our website</p>
+            <h1>AGRICULTURAL ECOMMERCE IDEA-"make farmers lives easier"</h1>
+        <link href="css/style.css" rel="stylesheet">
+        <style>
+        body {
+               color: white;
+}
+  </style>
+                  <body bgcolor="gray">            
+<img src="milk.jpg" width="600" height="300">     <img src="product.jpg" width="600" height="300"> 
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                  <ul class="navbar-nav m-auto font-rubik">
+                        <li class="nav-item active">
+                        <a class="nav-link" href="index.html">Home</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="about.html">About Us</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="contact-us.html">Contact Us</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="founder.html">founder</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="more info.html">more info</a>
+                        </li>
+                    </ul>
+ 
+                </div>
+              </nav>
+
+        </header>
+
+            <!-- main-site -->
+    <main id="main-site">
+<form action="/contact_us_page.php">
+  <input type="file" id="agric"name="filename">
+</form>
+href="about.html">about</a></li>
